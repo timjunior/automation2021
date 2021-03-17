@@ -3,7 +3,6 @@ using Automation_2021.Pages;
 using NUnit.Framework;
 using OpenQA.Selenium;
 
-
 namespace Automation_2021
 {
 
