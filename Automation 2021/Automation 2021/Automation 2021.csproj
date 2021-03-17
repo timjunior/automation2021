@@ -67,6 +67,7 @@
     <Compile Include="Enums\BrowserType.cs" />
     <Compile Include="Pages\ContactUsPage.cs" />
     <Compile Include="Pages\HomePage.cs" />
+    <Compile Include="Tests\ContactUsPageTests.cs" />
     <Compile Include="Tests\HomepageTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
